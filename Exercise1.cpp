@@ -1,8 +1,6 @@
 #include <iostream>
-#include <stdlib.h>
-#include <stdio.h>
 #include <cstring>
-
+#include "std_lib_facilities.h"
 int main(){
 
     
